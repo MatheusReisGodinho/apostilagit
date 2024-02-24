@@ -1,3 +1,10 @@
 Git add -> Adiciona as alterações a lista de envio para a o Git.
 Git commit-> Confirma as alterações realizadas na lista.
 Git Push -> Envia as alterações para um repositório remoto do Git.
+
+    Para adicionar alterações é sempre necessario seguir a sequência de:
+        1- Criar alguma alteração no código.
+        2- Executar o comando Git Add.
+        3- Executar o comando Git Commit.
+        4- Executar o comando Git Push.
+
